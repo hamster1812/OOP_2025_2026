@@ -1,0 +1,4 @@
+G:\ITMO\2 курс\OOP_2025_2026\Lab_1\obj\Debug\net8.0\Lab_1.GeneratedMSBuildEditorConfig.editorconfig
+G:\ITMO\2 курс\OOP_2025_2026\Lab_1\obj\Debug\net8.0\Lab_1.AssemblyInfoInputs.cache
+G:\ITMO\2 курс\OOP_2025_2026\Lab_1\obj\Debug\net8.0\Lab_1.AssemblyInfo.cs
+G:\ITMO\2 курс\OOP_2025_2026\Lab_1\obj\Debug\net8.0\Lab_1.csproj.CoreCompileInputs.cache
