@@ -16,9 +16,7 @@ namespace Models
             CurrentBalance = 0;
             CollectedMoney = 0;
             
-            // Инициализация монет
             InitializeCoins();
-            // Инициализация товаров
             InitializeProducts();
         }
 
