@@ -2,14 +2,14 @@ namespace Models
 {
     public class Product
     {
-        public int Id { get; set; }
+        public int Number { get; set; }
         public string Name { get; set; }
         public int Price { get; set; }
         public int Quantity { get; set; }
 
-        public Product(int id, string name, int price, int quantity)
+        public Product(int namber, string name, int price, int quantity)
         {
-            Id = id;
+            Number = namber;
             Name = name;
             Price = price;
             Quantity = quantity;
@@ -17,7 +17,7 @@ namespace Models
 
         public override string ToString()
         {
-            return $"{Id}. {Name} - {Price} (Осталось: {Quantity})";
+            return $"{Number}. {Name} - {Price} (Осталось: {Quantity})";
         }
     }
 }
